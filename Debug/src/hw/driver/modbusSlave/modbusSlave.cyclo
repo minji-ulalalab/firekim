@@ -1,0 +1,7 @@
+modbusSlave.c:16:6:ModbusInit	1
+modbusSlave.c:24:6:sendData	1
+modbusSlave.c:34:6:checkData	4
+modbusSlave.c:58:6:modbusException	1
+modbusSlave.c:70:9:readHoldingRegs	6
+modbusSlave.c:116:9:readInputRegs	6
+modbusSlave.c:161:9:writeSingleReg	5

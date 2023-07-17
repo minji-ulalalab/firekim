@@ -1,0 +1,9 @@
+../src/ap/ap.c:84:6:apInit	40	static
+../src/ap/ap.c:111:6:apMain	8	static
+../src/ap/ap.c:143:9:Read_Reed_state	24	static
+../src/ap/ap.c:169:6:Update_Flash_From_Modbus_MAP	24	static
+../src/ap/ap.c:205:6:Update_Modbus_MAP_From_Flash	24	static
+../src/ap/ap.c:226:6:InitStateHandler	32	static
+../src/ap/ap.c:246:6:ModeStateHandler	16	static
+../src/ap/ap.c:262:6:ModbusDataStateHandler	24	static
+../src/ap/ap.c:307:6:CLEStateHandler	8	static

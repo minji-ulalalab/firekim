@@ -1,0 +1,5 @@
+flash.c:25:6:flashInit	2
+flash.c:36:6:flashErase	6
+flash.c:82:6:flashWrite	4
+flash.c:119:6:flashRead	2
+flash.c:139:6:flashInSector	9

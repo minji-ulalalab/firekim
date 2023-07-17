@@ -1,0 +1,2 @@
+../src/hw/driver/button.c:24:6:buttonInit	40	static
+../src/hw/driver/button.c:47:15:buttonStateCheck	32	static

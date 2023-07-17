@@ -1,0 +1,2 @@
+ap_cli.c:13:6:cli_uartInit	1
+ap_cli.c:22:6:cli_uart	3
